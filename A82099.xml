@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of divers well-affected inhabitants of the cities of London and Westminster, borrough of Southwark, Tower Hamblets, and parts adjacent. Shewing their resolutions to joyn with the Army under the command of his Excellency Thomas Lord Fairfax; for the establishing of a safe and well-grounded peace, with the just rights and priviledges of the subject.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82099</idno>
+            <idno type="STC">Wing D608</idno>
+            <idno type="STC">Thomason E476_31</idno>
+            <idno type="STC">ESTC R205516</idno>
+            <idno type="EEBO-CITATION">99864874</idno>
+            <idno type="PROQUEST">99864874</idno>
+            <idno type="VID">117106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of divers well-affected inhabitants of the cities of London and Westminster, borrough of Southwark, Tower Hamblets, and parts adjacent. Shewing their resolutions to joyn with the Army under the command of his Excellency Thomas Lord Fairfax; for the establishing of a safe and well-grounded peace, with the just rights and priviledges of the subject.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baliffe, neer Temple Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117106:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF DIVERS WELL-AFFECTED IN<g ref="char:EOLhyphen"/>habitants of the Cities of London and Weſtmin<g ref="char:EOLhyphen"/>ſter, Borrough of Southwark, Tower Ham<g ref="char:EOLhyphen"/>blets, and parts adjacent.</p>
+            <p>SHEWING THEIR RESOLVTIONS TO joyn with the Army under the Command of his Excellency <hi>Thomas</hi> Lord <hi>Fairfax;</hi> for the e<g ref="char:EOLhyphen"/>ſtablishing of a ſafe and Well-grounded Peace, with the juſt Rights and Pri<g ref="char:EOLhyphen"/>viledges of the Subject.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Decemb: 18</add> 
+               <hi>LONDON,</hi> Printed for <hi>R. Baliffe,</hi> neer Temple Barre. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117106:2"/>
+            <pb n="1" facs="tcp:117106:2"/>
+            <head>THE DECLARATION OF DIVERS WELL-AFFECTED INHA<g ref="char:EOLhyphen"/>bitants of the Cities of London and Weſtminſter, Borrough of Southward, Tower Hamblets, and parts adjacent.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He apprehenſion of the ſadneſs of theſe times (we conceive) may juſtly put us upon doing ſomthing for our own and Poſterities happi<g ref="char:EOLhyphen"/>neſſe hereafter: eſpecially conſidering that they who should have been the means of our welfare were the chief inſtruments of our woe.</p>
+            <p>The Parliament at their firſt ſitting promiſed us fair, and therefore it was that we aided them to keep their power ſo long as they did: but now to our ſorrows we find fair promiſes to be but their ladder to climb to great<g ref="char:EOLhyphen"/>neſſe with. We all know, they are but the publick ſer<g ref="char:EOLhyphen"/>vants, imployed by the People (their Maſters) for the re<g ref="char:EOLhyphen"/>gulation of ſuch abuſes as by the age of Time are crept into the Common wealth; and yet inſteed thereof they have rather ſought to bring in new Corruptions, than ex<g ref="char:EOLhyphen"/>pel old ones: And that they might the better effect it, they Voted and kept a Treaty with the King, that thereby themſelves might have ſate in an everlaſting warm feat, and haveing had <hi>C. R.</hi> to their Papers, would the better have
+<pb n="2" facs="tcp:117106:3"/>bound the Peoples hands behind them, that ſo they might have been wholy uncapable of acting any thing contrary to their greatneſſe.</p>
+            <p>But yet leſt this deſigne should not take if the preſent Army on foot kept up, They Voted the Armies disband<g ref="char:EOLhyphen"/>ing, before they had done the work that they raiſed them for: But the Army being more wiſe, and ſeeing their Plot, refuſed disbanding till things were better ſetled, and them<g ref="char:EOLhyphen"/>ſelves in a capacity of freedom and ſafety for what they have done, and (as they juſtly may) ſtand upon the bargain they made with the Parliament, <hi>viz.</hi> Not only to indemp<g ref="char:EOLhyphen"/>nifie them for what they have done, or granting an Act of Oblivion; but alſo to ſettle the Kingdom and People in a well grounded Peace for preſent, and eſtablish a way for their defence, againſt all Tyrants and Tyrannie for future.</p>
+            <p>It is eaſy to be beleev'd that if the King had prevailed he would have made good his promiſes to his Cavileers; for experience tells us how his Souldiers when they got the upper hand over any place, cram'd their Snap-ſacks with plunder, and put good clothes on their backs, (though contrary to Articles of Surrender.) When as our Party when they have conquered, have not been ſuffered to ſpeak the Truth concerning the Kings illegal proceedings, without venturing their lives to the Oath of a ſingle Ca<g ref="char:EOLhyphen"/>vileer: the Laws of the Land, and malignancy of the Judges, frequently taking place againſt them, in ſuch caſes.</p>
+            <p>Theſe things we ſee, and conſidering the heavy burthen the Kingdom lies under, by Exciſe, Taxes, Tythes, Free-Quarter, &amp;c. We cannot but declare,</p>
+            <p n="1">1. To joyn with the Army in their juſt proceedings a<g ref="char:EOLhyphen"/>gainſt
+<pb n="3" facs="tcp:117106:3"/>all unjuſt perſons whatſoever, who have betrayed the truſt repoſed in them, and invited in the Scots, and rai<g ref="char:EOLhyphen"/>ſed other forces againſt the Kingdom.</p>
+            <p n="2">2. That this Parliament be diſſolved, before the laſt day of April next, 1649. And that a conſtant ſucceſſion of Parli<g ref="char:EOLhyphen"/>aments be ſetled, to be choſen of courſe by the people, at a fixed day every year or two as shall be thought fit: and they be made accomptable of their Stewardship, to the next ſucceeding Parliament.</p>
+            <p n="3">3. That all Statutes, Laws, and Acts of Parliament run only in the Name of the Commons of England aſſembled in Parliament.</p>
+            <p n="4">4. That no perſon that hath had a hand in the firſt or ſe<g ref="char:EOLhyphen"/>cond war, be choſen, or have a Voice in the choice of any Parliament Member, or other Officer of the State what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p n="5">5. That no Parliament Magiſtrate, or other perſon whatſoever, have power to make or execute any compul<g ref="char:EOLhyphen"/>ſive Law, touching matters of Conſcience and Religion; but that all civil people ſubject themſelves to the Laws of the Common wealth, though of ſeveral opinions, (not be<g ref="char:EOLhyphen"/>ing deſtructive to the State) be protected from all violence and injury.</p>
+            <p n="6">6. That none be forced to pay Tythes; but that a more conſcionable maintainance for the publick Miniſtry be provided.</p>
+            <p n="7">
+               <pb n="4" facs="tcp:117106:4"/> 7. That Exciſe upon all In-land commoditie be taken off; and that no Taxes or Ceſments be levied upon the People, but by the old way of Subſidies.</p>
+            <p n="8">8. That all Monopolies yet remaining, be forthwith abolished.</p>
+            <p n="9">9. That all Parliament Members, Committees, Exciſe men, Sequeſtrators &amp;c. be called to accompt for the mo<g ref="char:EOLhyphen"/>nies of the State.</p>
+            <p n="10">10. That all deſtitute Widdows, and poor Orphans, which have loſt their Husbands and Parents,, and all Soul<g ref="char:EOLhyphen"/>diers that have loſt their limbs in the Parliaments ſervice, be comfortably relieved, by way of conſtant ſtipend, and the children put to Trades.</p>
+            <p n="11">11. That publick work-houſes be erected, for preven<g ref="char:EOLhyphen"/>tion of beggars, vagabonds, and idle perſons.</p>
+            <p n="12">12. That a Trade of fishing upon the English coaſts be ſetled by the State, for the good of the Common wealth.</p>
+            <p n="13">13. That encouragement and protection be given to ſuch as shall proſecute any Lawfull Charge or Impeach<g ref="char:EOLhyphen"/>ment of Treaſon or other Crime againſt any Member in Parliament; and that the Members in Parliament, with<g ref="char:EOLhyphen"/>out reſpect of Perſons, be diſ-robed of their Protection, and left lyable to the Law.</p>
+            <p n="14">
+               <pb n="5" facs="tcp:117106:4"/> 14. That the cruelties and extortion of Goalers be ſeverely provided againſt; and that for future no fees bee exacted from Priſoners: but that fitting accommodate<g ref="char:EOLhyphen"/>on both for lodging and dyet for them, and a ſuffici<g ref="char:EOLhyphen"/>ent competency of livelihood for Goalers at the publick coſt be provided.</p>
+            <p n="15">15. That no man be kept in Priſon above a mo<g ref="char:EOLhyphen"/>neth; but in that ſpace to be brought to a Tryall, by a lawfull Jury of his equals; or elſe to be diſcharged of courſe.</p>
+            <p n="16">16. That no man bee impreſſed to ſerve in the Warres.</p>
+            <p n="17">17. That our Laws bee few and plain, free from all ambiguous meanings, and all in the English Tongue; and to bee digeſted and Printed in a Vol<g ref="char:EOLhyphen"/>lume; and one to bee provided to bee kept in every Church throughout the Land; and to be read over at ſeveral appointed Times and Seaſons, in open Con<g ref="char:EOLhyphen"/>gregation.</p>
+            <p n="18">18. That all perſons ſtand alike lyable to the Lawes of the Land, in all caſes, both criminal and civil: and that all protections by any pretended Priviledge or Pre<g ref="char:EOLhyphen"/>rogative whatſoever, be declared Void, and of none effect.</p>
+            <p>We having conſidered theſe things, cannot conceive
+<pb n="6" facs="tcp:117106:5"/>our ſelves in ſafetie unleſſe theſe or ſuch like Lawes be eſtablished, for a certain unalterable Government, for the Nation to be regulated by. And therefore we do reſolve with our utmoſt vigor and force to oppoſe all ſuch perſons whatſoever that shall go about to hinder theſe our juſt undertakings; they being ſo reaſonable that (we know) no rational man (that hath but one drop of En<g ref="char:EOLhyphen"/>glish bloud running in his veins) will bee againſt them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
